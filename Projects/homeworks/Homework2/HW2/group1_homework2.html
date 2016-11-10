@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title>Homework 2</title>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+		<script src= "group1_homework2.js"> </script>
+		<link href="https://fonts.googleapis.com/css?family=Roboto: 400, 900" rel="stylesheet">
+		<link rel="stylesheet" type="text/css" href="group1_homework2.css"></link>
+		<link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
+	</head>
+	<body>
+		<div id="header">
+				<img id="logo" src="hexed.png">
+		</div>
+
+		<div id="parameters">
+				<p>Use the sliders on the left to match the colors on the right.</p>
+				<span id="diff">Difficulty</span>
+				<label>
+						<select>
+							<option value="1">1</option>
+							<option value="2">2</option>
+							<option value="3">3</option>
+							<option value="4">4</option>
+							<option selected value="5">5</option>
+							<option value="6">6</option>
+							<option value="7">7</option>
+							<option value="8">8</option>
+							<option value="9">9</option>
+							<option value="10">10</option>
+						</select>
+				</label>
+						<span id="rounds">Rounds</span>
+				<label>
+						<select>
+							<option value="3">3</option>
+							<option value="4">4</option>
+							<option value="5">5</option>
+							<option value="6">6</option>
+							<option value="7">7</option>
+							<option value="8">8</option>
+							<option value="9">9</option>
+							<option selected value="10">10</option>
+						</select>
+
+				</label>
+		</div>
+
+		<div id="score">
+				<h3>TURNS Left</h3>
+				<h4 id="turns">8</h4>
+		</div>
+
+		<div id="colors">
+
+			<div id="match" style="background:#567890;">
+					<div id="sliders">
+							<!--Code provided from JSFiddle.net -->
+							<p>
+									<span class="wrap_red"><input class="r ch" type="range" min="0" max="255" /></span>
+									<input type="number" min="0" max="255" />
+							</p>
+							<p>
+									<span class="wrap_green"><input class="g ch" type="range" min="0" max="255" /></span>
+									<input type="number" min="0" max="255" />
+							</p>
+							<p>
+									<span class="wrap_blue"><input class="b ch" type="range" min="0" max="255" /></span>
+									<input type="number" min="0" max="255" />
+							</p>
+							<!-- Code provided ends -->
+
+							<div class='button -dark center'>Check It!</div>
+					</div>
+			</div>
+
+				<div id="sample">
+						<i class="em em-poop"></i>
+				</div>
+		</div>
+
+		<div id="finalScore">
+				<h3>YOU SCORED</h3>
+				<h4 id="percentage">73%</h4>
+		</div>
+
+
+		<div id="footer">
+				<span id="signature">Made by: Corey Burns, Samm Katcher, Jason Kim, & Jeremy Simon</span>
+		</div>
+
+
+
+	</body>
+</html>

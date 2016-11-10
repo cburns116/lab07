@@ -1,0 +1,16 @@
+.title{
+ font-size: 80%;
+}
+.artist{
+ color: blue;
+}
+.album{
+	font-style: italic;
+}
+
+.album_image img{
+	width: 150px;
+	height: auto;
+	margin: 0 auto;
+	display: block;
+}

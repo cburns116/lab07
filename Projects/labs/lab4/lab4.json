@@ -1,0 +1,64 @@
+{
+	"songs" : [
+	{
+		"title" :"Wesley's Theory",
+		"artist" :"Kendrick Lamar",
+		"album" :"To Pimp a Butterfly",
+		"album_cover" :"http://i.kinja-img.com/gawker-media/image/upload/e59k1vm4wxbv5newpl2x.jpg",
+		"date" : "2015",
+		"site" : "http://www.allmusic.com/album/to-pimp-a-butterfly-mw0002835159",
+		"generes" : "Hip-hop"
+
+	},
+	{
+		"title" :"Rigamortous",
+		"artist" : "Kendrick Lamar",
+		"album" : "Section 80",
+		"album_cover" :"https://upload.wikimedia.org/wikipedia/en/4/48/Section.80-Cover.jpg",
+		"date" : "2011",
+		"site" : "http://www.allmusic.com/album/section80-mw0002186545",
+		"generes" : "Hip-hop"
+
+	},
+	{
+		"title" :"G.O.M.D.",
+		"artist" : "J-Cole",
+		"album" : "2014 Forest Hill Drive",
+		"album_cover" :"https://upload.wikimedia.org/wikipedia/en/2/2a/2014ForestHillsDrive.jpg",
+		"date" : "2015",
+		"site" : "http://www.allmusic.com/album/2014-forest-hills-drive-mw0002786766",
+		"generes" : "Hip-hop"
+
+	},
+	{
+		"title" :"You See Me",
+		"artist" : "Childish Gambino",
+		"album" : "Camp",
+		"album_cover" :"http://images.genius.com/91362788ed6088d22ac72895642b3e50.1000x1000x1.jpg",
+		"date" : "2011",
+		"site" : "http://www.allmusic.com/album/camp-mw0002225400",
+		"generes" : "Hip-hop"
+
+	},
+	{
+	"title" :"Ultralight Beam",
+	"artist" : "Kanye-West",
+	"album" : "Life of Pablo",
+	"album_cover" :"http://www.tinymixtapes.com/sites/default/files/1602/life-of-pablo.jpg",
+	"date" : "2016",
+	"site" : "http://www.allmusic.com/album/the-life-of-pablo-mw0002913866",
+	"generes" : "Hip-hop and R&B"
+
+	},
+	{
+	"title" :"All I Need",
+	"artist" : "Dirty Heads",
+	"album" : "Dirty Heads",
+	"album_cover" :"https://i.embed.ly/1/display?key=fc778e44915911e088ae4040f9f86dcd&url=http%3A%2F%2Fd2118lkw40i39g.cloudfront.net%2Fwp-content%2Fuploads%2F2016%2F06%2FDH_Digital_Album_cover.jpg",
+	"date" : "2016",
+	"site" : "http://www.allmusic.com/album/dirty-heads-mw0001091680",
+	"generes" : "Reggae"
+
+	}
+	]
+}

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/css" href="Coreyburns-lab2part4.css"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<playlist>
+    <song>
+        <track_name>Wesley's Theory</track_name>
+        <artist>Kendrick Lamar</artist>
+        <album_name><a href="http://www.allmusic.com/album/to-pimp-a-butterfly-mw0002835159">To Pimp a Butterfly</a></album_name>
+        <release_date>2015</release_date>
+        <genre>Hip-hop</genre>
+        <image> <img src="http://i.kinja-img.com/gawker-media/image/upload/e59k1vm4wxbv5newpl2x.jpg"/></image>
+    </song>
+    <song>
+        <track_name>Rigamortous</track_name>
+        <artist>Kendrick Lamar</artist>
+        <album_name><a href="http://www.allmusic.com/album/section80-mw0002186545">Section 80</a></album_name>
+        <release_date>2011</release_date>
+        <genre>Hip-hop</genre>
+        <image> <img src="https://upload.wikimedia.org/wikipedia/en/4/48/Section.80-Cover.jpg"/></image>
+    </song>
+    <song>
+        <track_name>G.O.M.D.</track_name>
+        <artist>J-Cole</artist>
+        <album_name><a href="http://www.allmusic.com/album/2014-forest-hills-drive-mw000278676">2014 Forest Hill Drive</a></album_name>
+        <release_date>2015</release_date>
+        <genre>Hip-hop</genre>
+        <image> <img src="https://upload.wikimedia.org/wikipedia/en/2/2a/2014ForestHillsDrive.jpg"/></image>
+    </song>
+    <song>
+        <track_name>You See Me</track_name>
+        <artist>Childish Gambino</artist>
+        <album_name><a href="http://www.allmusic.com/album/camp-mw0002225400">Camp</a></album_name>
+        <release_date>2011</release_date>
+        <genre>Hip-hop</genre>
+        <image> <img src="http://images.genius.com/91362788ed6088d22ac72895642b3e50.1000x1000x1.jpg"/></image>
+    </song>
+    <song>
+        <track_name>Ultralight Beam</track_name>
+        <artist>Kanye West</artist>
+        <album_name><a href="http://www.allmusic.com/album/the-life-of-pablo-mw0002913866">Life of Pablo</a></album_name>
+        <release_date>2016</release_date>
+        <genre>Hip-hop</genre>
+        <image> <img src="http://www.tinymixtapes.com/sites/default/files/1602/life-of-pablo.jpg"/></image>
+    </song>
+    <song>
+        <track_name>That's All I Need</track_name>
+        <artist>Dirty Heads</artist>
+        <album_name><a href="http://www.allmusic.com/album/dirty-heads-mw0001091680">Dirty Heads</a></album_name>
+        <release_date>2016</release_date>
+        <genre>Hip-hop</genre>
+        <image> <img src="https://pbs.twimg.com/profile_images/731145274689605632/pAErQBMx.jpg"/></image>
+    </song>
+</playlist>

@@ -1,0 +1,21 @@
+Readme- Corey Burns Homework 2
+
+Questions:
+1) What are the advantages to writing a jQuery plugin over regular JavaScript that uses jQuery?
+
+We used the a jQuery plugin called hex which creates a new instance of the game it is better than plain javascript because it allows someone to create a new game with a new instance instead of us having multiple games going on at the same time. This is very helpful because we ran into the problem of counting how many times you can submit and answer. We solved this by creating a jQuery Function.
+
+2) Explain how your jQuery plugin adheres to best practices in JavaScript and jQuery development.
+
+Our jQuery adheres to the best practices in Javascript and jQuery development by having a function(hex) that is called everytime you click on the start button. This creates a new game everytime and a new instance of it. To make our plugin adhere better we would have to include documentation to tell the user who has our plug in that they need to have certain ids and classes in which we call on in our jQuery in order for it to work. 
+
+3) Does anything prevent you from POSTing high scores to a server on a different domain? If so, what? If not, how would we go about it (written explanation/pseudocode is fine here)?
+
+The only thing that could stop us from posting the high score to a different domain would be the accessability we have to that other domain/server. If we are allowed to post the high scores then there is nothing stopping us because we handle all of the calculations and no user input is required. If there was a user input then we would have to make sure that no input could possibly crash the other domain. but since there the user does not input their own score then we should not have a problem.
+
+4) Now that you're used Web Storage, what other information would you store there in other Web-based applications? Is there any information you wouldn't store?
+
+Although we did not preform the extra credit, we would have stored the individual scores, scores on each color, and a total score. This would make sense if we made a full game of this because we could track all the important information. In general it would be awesome to track this data so we could score everything about the game and try to make it better based off data. I would not save the users information such as name and email for security reasons. This seems obvious based on privacy. 
+
+
+

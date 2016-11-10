@@ -1,0 +1,7 @@
+track_name{ font-size: 80%;}
+artist{ color: blue;}
+album_name{ font-style: italic;}
+image{width: 150px;
+	height: auto;
+	margin: 0 auto;
+	display: block;}
