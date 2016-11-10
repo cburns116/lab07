@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/css" href="display.css"?>
+<projects>
+    <homeworks>
+		<homework>
+			<assignment>HomeWork1</assignment>
+			<solution>Projects\homeworks\HomeWork1\Coreyburns-resume.html</solution>
+			<description>Created a resume for class</description>
+		</homework>
+        <homework>
+            <assignment>HomeWork2</assignment>
+            <solution>Projects\homeworks\Homework2\group1_homework2.html</solution>
+            <description>Created a hex game</description>
+        </homework>
+	</homeworks>
+    <labs>
+		<lab>
+			<assignment>Lab1</assignment>
+			<solution>Projects\</solution>
+			<description>Set up virtual host</description>
+		</lab>
+        <lab>
+            <assignment>Lab2</assignment>
+            <solution>Projects\labs\lab2\CoreyBurns-lab3part3.html</solution>
+            <description>Styling html</description>
+        </lab>
+        <lab>
+            <assignment>Lab3</assignment>
+            <solution>Projects\labs\lab3\lab3instructions.html</solution>
+            <description>Working with the DOM and Javascript</description>
+        </lab>
+        <lab>
+            <assignment>Lab4</assignment>
+            <solution>Projects\labs\lab4\lab4start.html</solution>
+            <description>Json and jquery</description>
+        </lab>
+        <lab>
+            <assignment>Lab5</assignment>
+            <solution>Projects\labs\lab5\lab5start.html</solution>
+            <description>User Interface Efficiency</description>
+        </lab>
+        <lab>
+            <assignment>Lab6</assignment>
+            <solution>Projects\labs\lab6\lab7start.php</solution>
+            <description>User Interface Efficiency</description>
+        </lab>
+        <lab>
+            <assignment>Lab8</assignment>
+            <solution>Projects\labs\lab8\websyslab8.doc</solution>
+            <description>Using a SQL database</description>
+        </lab>
+    </labs>
+</projects>
