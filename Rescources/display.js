@@ -15,7 +15,7 @@ $(document).ready(function(){
 					link = $this.find('solution').text(),
 					desc = $this.find('description').text();
                 $("#displaydata").append(
-					"<a href='" + link + "'>" + name + "</a><div>" + desc + "</div>"
+					"<h3><a href='" + link + "'>" + name + "</a></h3><div><p><a href='" + link + "'>" + desc + "</a></p></div>"
 				);
             });
 			
@@ -25,9 +25,16 @@ $(document).ready(function(){
                     link = $this.find('solution').text(),
                     desc = $this.find('description').text();
                 $("#displaydata").append(
-                    "<a href='" + link + "'>" + name + "</a><div>" + desc + "</div>"
+                    "<h3><a href='" + link + "'>" + name + "</a></h3><div><p><a href='" + link + "'>" + desc + "</a></p></div>"
             );
             });
+
+            $( function() {
+                $( ".accordion" ).accordion();
+            } );
         }
     });
+
 });
+
+
