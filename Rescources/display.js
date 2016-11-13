@@ -15,7 +15,7 @@ $(document).ready(function(){
 					link = $this.find('solution').text(),
 					desc = $this.find('description').text();
                 $("#displaydata").append(
-					"<h3><a href='" + link + "'>" + name + "</a></h3><div><p><a href='" + link + "'>" + desc + "</a></p></div>"
+					"<h3><a href='" + link + "'>" + name + "</a></h3><div><p><a href='" + link + "'title='Solution to " + name + "''>" + desc + "</a></p></div>"
 				);
             });
 			
@@ -25,12 +25,15 @@ $(document).ready(function(){
                     link = $this.find('solution').text(),
                     desc = $this.find('description').text();
                 $("#displaydata").append(
-                    "<h3><a href='" + link + "'>" + name + "</a></h3><div><p><a href='" + link + "'>" + desc + "</a></p></div>"
+                    "<h3><a href='" + link + "'>" + name + "</a></h3><div><p><a href='" + link + "'title='Solution to " + name + "''>" + desc + "</a></p></div>"
             );
             });
 
             $( function() {
                 $( ".accordion" ).accordion();
+            } );
+            $( function() {
+                $( document ).tooltip();
             } );
         }
     });
