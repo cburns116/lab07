@@ -1,5 +1,7 @@
 # lab07
 This is Corey Burns' readme file:
+link to git hub repo:
+https://github.com/cburns116/lab07
 
 Sources: 
 For the project I used jquery ui (https://jqueryui.com/) to implement the accordion style along with tool tip to create a classy hover over giving a further description to what you are about to click on.
